@@ -1,0 +1,1 @@
+[img1]: /ruta/a/la/image.jpg "Catapulta"
