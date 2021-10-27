@@ -15,11 +15,18 @@
 Aquí explico los motivos por los que henos desarrollado este proyecto. En uno o dos párrafos, explico cuál ha sido la motivación principal y la experiencia que se ha vivido en el proyecto.
 
 
-![marisafoto](http://marisaposada.ueuo.com/img/fotowebmovil.png)
+![marisafoto](https://www.rinconutil.com/wp-content/uploads/2017/10/Catapulta-Casera.jpg)
 
-## Marisa catapulta
-> Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhigit
 
-## Presentación de Marisa
-  I have extensive professional experience in visual design, web design and UX/UI design for digital products in permanent roles in E-learning, Banking, Hospitality, E-Health and Telecommunication projects in several companies. Also, I usually work as a freelance in illustration, 2D animation and branding projects.
+## 1. Presentación
+  Hola a todos, hoy vamos a construir una Catapulta Casera como esta. Es un modelo muy realista, tanto por los materiales con los que está construida, como por los mecanismos que utiliza para su funcionamiento.
+  
+## 2. Instalación
+  Esta estructura principal, la fijaremos utilizando cola para madera. Debemos dejar un espacio de 6 cm por la derecha, y 2 cm por la izquierda. Para continuar con sus construcción colocaremos en la mitad, dos pequeños travesaños de 17 cm de altura. y los conectaremos con otro de 20,5 cm. Una vez pegados con cola, fortaleceremos el arco, poniendo unos pilares inclinados. Los cortes que haremos serán de 50 y 40 grados respectivamente.
+  
+  Para hacer las ruedas de nuestra catapulta, utilizaremos un pequeño trozo de madera o contrachapado. y con a ayuda de un compás, tomando un radio de unos 3 cm, dibujaremos 4 circunferencias.Una vez recortadas, debemos hacerle unos pequeños agujeros en el centro.
 
+## 6. Agradecimientos
+  Para terminar de darle un aspecto mas realista, he utilizado un pequeño barniz para madera de color nogal, y he aplicado una sola capa a toda la superficie.
+  
+  Una vez hecho, solo nos queda terminar algunos detalles, como por ejemplo, colocar cordel en algunas zonas de la catapulta, como por ejemplo en los 3 pilares del arco.
