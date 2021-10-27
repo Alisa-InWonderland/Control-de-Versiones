@@ -16,3 +16,8 @@ Aquí explico los motivos por los que henos desarrollado este proyecto. En uno o
 ## Marisa catapulta
 > Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhigit
 
+## Instrucciones Operacionales
+
+Escribe la sección "Instrucciones Operacionales". Esta sección debe explicar cómo hacer funcionar el proyecto. Pueden incluirse tantos pasos como sean necesarios, e imágenes o gráficos que ayuden a la comprensión. Incluye un título con el nombre de la sección.
+
+![The Trebuchet   Launching a Car, Piano and Incendiary Drum](https://i.makeagif.com/media/8-23-2018/YczR6O.gif)
